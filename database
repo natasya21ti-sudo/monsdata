@@ -1,0 +1,42 @@
+{
+  "manga_id": "a-dragonslayers-peerless-regression",
+  "title": "A Dragonslayer's Peerless Regression",
+  "alternative_title": "Yongdosaui Yeokdaegeup Hoegwi, The Dragonslayer's Modern Regression",
+  "status": "Ongoing",
+  "author": "Woo Gak",
+  "artist": "Spoon",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Regression",
+    "Martial Arts"
+  ],
+  "type": "Manhwa",
+  "release_year": 2023,
+  "rating": "4.8",
+  "synopsis": "Slayer naga terkuat, Siegfried, gugur dalam pertempuran sengit melawan Raja Naga demi menyelamatkan umat manusia. Namun, alih-alih menemui ajalnya secara permanen, ia terbangun kembali di masa lalu ketika dirinya masih menjadi seorang rekrutan muda yang lemah. Dengan ingatan masa depan, teknik tempur tingkat tinggi, dan tekad bulat untuk mencegah kehancuran yang sama, Siegfried memulai kembali jalannya menuju puncak demi menjadi Dragonslayer tanpa tanding.",
+  "cover_url": "https://raw.githubusercontent.com/G_USER/G_REPO/main/covers/a-dragonslayers-peerless-regression.jpg",
+  "chapters": [
+    {
+      "chapter_number": "01",
+      "chapter_title": "Prologue: Kejatuhan Sang Legenda",
+      "images": [
+        "https://raw.githubusercontent.com/G_USER/G_REPO/main/manga/a-dragonslayers-peerless-regression/ch_01/001.jpg",
+        "https://raw.githubusercontent.com/G_USER/G_REPO/main/manga/a-dragonslayers-peerless-regression/ch_01/002.jpg",
+        "https://raw.githubusercontent.com/G_USER/G_REPO/main/manga/a-dragonslayers-peerless-regression/ch_01/003.jpg",
+        "https://raw.githubusercontent.com/G_USER/G_REPO/main/manga/a-dragonslayers-peerless-regression/ch_01/004.jpg"
+      ]
+    },
+    {
+      "chapter_number": "02",
+      "chapter_title": "Kesempatan Kedua",
+      "images": [
+        "https://raw.githubusercontent.com/G_USER/G_REPO/main/manga/a-dragonslayers-peerless-regression/ch_02/001.jpg",
+        "https://raw.githubusercontent.com/G_USER/G_REPO/main/manga/a-dragonslayers-peerless-regression/ch_02/002.jpg",
+        "https://raw.githubusercontent.com/G_USER/G_REPO/main/manga/a-dragonslayers-peerless-regression/ch_02/003.jpg",
+        "https://raw.githubusercontent.com/G_USER/G_REPO/main/manga/a-dragonslayers-peerless-regression/ch_02/004.jpg"
+      ]
+    }
+  ]
+}
